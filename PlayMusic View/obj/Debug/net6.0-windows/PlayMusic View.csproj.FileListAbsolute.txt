@@ -1,0 +1,21 @@
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\bin\Debug\net6.0-windows\PlayMusic View.exe
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\bin\Debug\net6.0-windows\PlayMusic View.deps.json
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\bin\Debug\net6.0-windows\PlayMusic View.runtimeconfig.json
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\bin\Debug\net6.0-windows\PlayMusic View.dll
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\bin\Debug\net6.0-windows\PlayMusic View.pdb
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.csproj.AssemblyReference.cache
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View_MarkupCompile.cache
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View_MarkupCompile.lref
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.g.resources
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.AssemblyInfoInputs.cache
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.AssemblyInfo.cs
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.csproj.CoreCompileInputs.cache
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.dll
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\refint\PlayMusic View.dll
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.pdb
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\PlayMusic View.genruntimeconfig.cache
+C:\Users\sereg\source\repos\PlayMusic\PlayMusic View\obj\Debug\net6.0-windows\ref\PlayMusic View.dll
